@@ -2,10 +2,6 @@
 
 A description of this package.
 
-Now lets put some info in the remote repo just for fun
+Framework package for training some stuff
 
-456456
-
-$%ˆ$%ˆ
-
-Let's see
+0000000-0000
